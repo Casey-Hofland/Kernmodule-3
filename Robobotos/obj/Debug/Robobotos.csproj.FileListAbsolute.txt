@@ -1,0 +1,8 @@
+D:\hofla\Desktop\Robobotos\bin\Debug\Robobotos.dll
+D:\hofla\Desktop\Robobotos\bin\Debug\Robobotos.pdb
+D:\hofla\Desktop\Robobotos\bin\Debug\robocode.dll
+D:\hofla\Desktop\Robobotos\bin\Debug\robocode.xml
+D:\hofla\Desktop\Robobotos\obj\Debug\Robobotos.csprojAssemblyReference.cache
+D:\hofla\Desktop\Robobotos\obj\Debug\Robobotos.csproj.CopyComplete
+D:\hofla\Desktop\Robobotos\obj\Debug\Robobotos.dll
+D:\hofla\Desktop\Robobotos\obj\Debug\Robobotos.pdb

@@ -1,0 +1,15 @@
+D:\hofla\Desktop\Robobotos\bin\Release\Robobotos.dll
+D:\hofla\Desktop\Robobotos\bin\Release\Robobotos.pdb
+D:\hofla\Desktop\Robobotos\bin\Release\robocode.dll
+D:\hofla\Desktop\Robobotos\bin\Release\robocode.xml
+D:\hofla\Desktop\Robobotos\obj\Release\Robobotos.csproj.CopyComplete
+D:\hofla\Desktop\Robobotos\obj\Release\Robobotos.dll
+D:\hofla\Desktop\Robobotos\obj\Release\Robobotos.pdb
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\bin\Release\Robobotos.dll
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\bin\Release\Robobotos.pdb
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\bin\Release\robocode.dll
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\bin\Release\robocode.xml
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\obj\Release\Robobotos.csprojAssemblyReference.cache
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\obj\Release\Robobotos.csproj.CopyComplete
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\obj\Release\Robobotos.dll
+D:\hofla\Desktop\Educations\HKU\Jaar 2\Blok 3\Kernmodule-3\Robobotos\obj\Release\Robobotos.pdb
