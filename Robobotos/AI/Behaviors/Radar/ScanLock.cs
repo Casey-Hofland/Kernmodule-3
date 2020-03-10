@@ -44,7 +44,7 @@ namespace CaseyDeCoder
 
             if(ticksSinceLastScan > tickMissMargin)
             {
-                var newBehavior = new RoamScanning(robot);
+                var newBehavior = new RoamScanningToCenter(robot);
                 Fail(newBehavior);
                 newBehavior.Tick();
             }

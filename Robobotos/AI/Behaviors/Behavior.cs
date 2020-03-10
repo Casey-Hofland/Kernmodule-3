@@ -22,8 +22,12 @@ namespace CaseyDeCoder
         {
             End();
             robot.behaviors.Remove(this);
-            robot.behaviors.Add(newBehavior);
-            newBehavior.Start();
+
+            if(newBehavior != null)
+            {
+                robot.behaviors.Add(newBehavior);
+                newBehavior.Start();
+            }
         }
 
         public virtual void Start()
