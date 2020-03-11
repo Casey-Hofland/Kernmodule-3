@@ -7,7 +7,7 @@ using Robocode;
 
 namespace CaseyDeCoder.BehaviorTree
 {
-    public class NodeDecorator : NodeBase
+    public abstract class NodeDecorator : NodeBase
     {
         protected NodeBase node;
 

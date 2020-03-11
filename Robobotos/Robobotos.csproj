@@ -85,7 +85,7 @@
     <Compile Include="Behavior Tree\Nodes\Wheels\Spin.cs" />
     <Compile Include="BTBot.cs" />
     <Compile Include="Behavior Tree\Nodes\Scanner\ThinLock.cs" />
-    <Compile Include="BTUtility.cs" />
+    <Compile Include="Utility.cs" />
     <Compile Include="Direction.cs" />
     <Compile Include="EnemyWave.cs" />
     <Compile Include="MissionXOld.cs" />

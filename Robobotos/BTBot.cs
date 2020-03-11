@@ -150,9 +150,9 @@ namespace CaseyDeCoder.BehaviorTree
         {
         }
 
-        public override void OnStatus(StatusEvent e)
+        public override void OnStatus(StatusEvent evnt)
         {
-            status = e.Status;
+            status = evnt.Status;
         }
 
         public override void OnWin(WinEvent evnt)

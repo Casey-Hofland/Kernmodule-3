@@ -8,11 +8,11 @@ namespace CaseyDeCoder.BehaviorTree
 {
     public class RoamScanningToCenter : RoamScanning
     {
-        // Figure out the direction to turn to scan the center the quickest. This ensures that the biggest area from this position is scanned first.
         public override void Initialize(Blackboard blackboard)
         {
             try
             {
+                // Figure out the direction to turn to scan the center the quickest. This ensures that the biggest area from this position is scanned first.
                 var robot = blackboard.GetValue<AdvancedRobot>(BB.robotKey);
 
                 var center = new Vector
